@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BackgroundFoliage
+  - Ground
+  - Fire1
+  - FireBlue
+  - Fire2
+  - BulletLaser
+  - Hunter
+  - BulletSlice
+  - HunterBullet1
+  - HunterBullet2
+  - HunterDynamite
+  - GemRed
+  - GemBlue
+  - GemGreen
+  - PointToSpawnToStartHunter
+  - LevelManager
+  - MenuMusic
+  - PopSound
+  - Level1Music
+  - GemSound
+  - GameOverSound
+  - GameOverUI
+  - CelebrationSound
+  - SkullScoreText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
